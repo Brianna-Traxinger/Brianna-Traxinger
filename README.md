@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brianna-Traxinger
-- 👀 I’m interested in T cells, infectious disease, and technical writing.
+- 👀 I’m interested in T cell immunology, infectious disease, and technical writing.
 - 🌱 I’m currently learning to apply computational analyses to immunologic data.
 - 📫 How to reach me: https://www.linkedin.com/in/brianna-traxinger-bb4b2864
 
